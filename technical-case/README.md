@@ -1,3 +1,7 @@
+
+NestJS ve MongoDB ile transaction odaklı bir backend geliştirdim. CRUD endpointlerini ekledim, komisyon breakdown hesabını ve stage transition kurallarını servis katmanında yönettim. DTO validation, standart error response yapısı, Swagger dokümantasyonu ve testler de ekleyerek backendi daha temiz ve teslim edilebilir hale getirdim
+
+
 # Technical Case
 
 This project is organized as two separate apps under one root folder:
@@ -50,3 +54,5 @@ Frontend URL:
 - View commission breakdown
 - View agent earnings
 - Search and filter transactions by stage
+
+
